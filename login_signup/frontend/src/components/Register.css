@@ -1,0 +1,48 @@
+.container {
+    max-width: 500px;
+    margin: 1% auto;
+
+ 
+    background-color:white;
+    box-shadow: 0 0 100px #BBE9FF;
+    border-radius: 20px ;
+}
+body{
+    background-color: bisque
+}
+.middle{
+    width: 100%;
+    
+}
+.bgcustom0{
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.btcustom0{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.formcustom{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.formcustom0{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.cardcustom{
+    background-color: #BBE9FF;
+    color: black;
+}
+.bg-custom{
+    background-color: beige;
+}
+.bgcustom0{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
